@@ -14,9 +14,9 @@ I have a passion for low-level programming and electronics, with a particular lo
 
 ## Contact
 
-**Email:** zebrowskylucas@proton.me
-**Linkedin:** https://www.linkedin.com/in/lucas-zebrowsky
-**Mastodon:** https://mastodon.social/@Lu_Die_Milchkuh
+-   **Email:** zebrowskylucas@proton.me
+-   **Linkedin:** https://www.linkedin.com/in/lucas-zebrowsky
+-   **Mastodon:** https://mastodon.social/@Lu_Die_Milchkuh
 
 ## Skills
 
