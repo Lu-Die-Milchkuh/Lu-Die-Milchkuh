@@ -1,16 +1,26 @@
-## Hi there 👋
+## Moien!
 
-<!--
-**Lu-Die-Milchkuh/Lu-Die-Milchkuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moien! My name is Lucas and I am a software developer from Luxembourg 🇱🇺
 
-Here are some ideas to get you started:
+[![Linux](https://skillicons.dev/icons?i=linux,arch)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Information
+
+-   **Name:** Lucas Zebrowsky
+-   **Languages:** English, German, Luxembourgish, French
+
+## Contact
+
+**Email:** zebrowskylucas@proton.me
+
+or click on one of the icons below:
+
+[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@Lu_Die_Milchkuh) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-zebrowsky)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js)](https://skillicons.dev)
+
+**Learning**
+
+[![Learning](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)
